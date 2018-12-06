@@ -23,7 +23,7 @@ package com.lafaspot.tagchowder;
 import org.xml.sax.Attributes;
 
 /**
- * Default implementation of the Attributes interface.
+ * Default implementation of the Attributes interfac
  *
  * <blockquote> <em>This module, both source code and documentation, is in the Public Domain, and comes with <strong>NO WARRANTY</strong>.</em> See
  * <a href='http://www.saxproject.org'>http://www.saxproject.org</a> for further information. </blockquote>
